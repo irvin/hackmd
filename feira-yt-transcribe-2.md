@@ -1,4 +1,4 @@
-# Feira 現場錄影逐字稿 Day 2
+# Feira 錄影逐字稿 Day 2
 
 License: [CC BY-NC 4.0 DEED](https://creativecommons.org/licenses/by-nc/4.0/deed.zh-hant)
 
