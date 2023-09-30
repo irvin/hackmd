@@ -1,6 +1,8 @@
 # Feira 現場錄影逐字稿 Day 1
 
-https://www.youtube.com/watch?v=TAEMfZ2gvJU&list=PL9q3Nz3iaXIY7qa-BpO8KBNFetfb-Vltu&index=1&pp=gAQBiAQB
+License: [CC BY-NC 4.0 DEED](https://creativecommons.org/licenses/by-nc/4.0/deed.zh-hant)
+
+video: https://www.youtube.com/watch?v=TAEMfZ2gvJU&list=PL9q3Nz3iaXIY7qa-BpO8KBNFetfb-Vltu&index=1&pp=gAQBiAQB
 
 嗨，大家好，現在是今天幾日，現在是9月16號，禮拜六的1點15分。我現在人在葡萄牙的里斯本旁邊的一個小鎮叫做Estoril。它是葡萄牙從里斯本有一條火車線路叫做Cascais的線，到數的二三站。Cascais是一個知名的觀光勝地，Estoril就是他前面的一個小鎮。
 
