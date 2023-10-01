@@ -3,11 +3,19 @@ Feira @ the Global Gathering (2023) 活動參與紀錄
 
 ###### tags: `feira_2023`
 
-TL;DR, Intro and summary of my participating at [Feira @ the Global Gathering](https://www.digitalrights.community/blog/apply-feira-global-gathering) by TCU on Sep 15-17 in Estoril Portugal. Travel partially sponsored by Open Culture Foundation [International Participation Support Program](https://ocf.tw/en/p/intldonate/).
-
 2023 年 9 月 15 至 17 日（週五至週日），我接受了開放文化基金會的[國際交流補助](http://v0.ocf.tw/donate/intl.html)，前往葡萄牙里斯本參加 TeamCOMMUNITY 舉辦的「[Feira @ the Global Gathering](https://www.digitalrights.community/blog/apply-feira-global-gathering)」數位人權研討會。以下為活動介紹與參與分享報告。
 
+TL;DR, Intro and summary of my participation at [Feira @ the Global Gathering](https://www.digitalrights.community/blog/apply-feira-global-gathering) by TCU on Sep 15-17 in Estoril Portugal. Travel partially sponsored by Open Culture Foundation [International Participation Support Program](https://ocf.tw/en/p/intldonate/).
+
 (跳到最下方的[心得錄影](#現場心得錄影)及[活動相簿](#相簿))
+
+授權：創用 CC 姓名標示-非商業性 4.0 國際授權（[CC BY-NC 4.0 DEED](https://creativecommons.org/licenses/by-nc/4.0/deed.zh-hant)）  
+本文原始檔：[https://github.com/irvin/hackmd/blob/main/feira-report.md]()  
+Medium：[https://irvinfly.medium.com/feira-2023-6d251baa07b2]()
+
+---
+
+OCF 將於 10/5 假網路自由小聚舉辦 Feira 參加者分享活動，歡迎於此報名： [https://ocftw.kktix.cc/events/internetfreedom-october2023-special]()
 
 ---
 
@@ -36,12 +44,12 @@ Feira 活動的會場位於名為 Estoril 的小鎮，在葡萄牙首都里斯�
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/irvin/53223868562/in/album-72177720311589395/" title="Feira 會場"><img src="https://live.staticflickr.com/65535/53223868562_45163ef43b_h.jpg" width="1200" height="1600" alt="Feira 會場"/></a>
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/irvin/53225243890/in/album-72177720311589395/" title="Feira 會場"><img src="https://live.staticflickr.com/65535/53225243890_304fc2fcca_h.jpg" width="1200" height="1600" alt="Feira 會場"/></a>
 
-此外，主辦單位也邀請了一些在地的餐廳、服務（如按摩）、與藝術家進行設攤銷售。現場也有一些彩繪、泡泡、貼紙分享等攤位。
+此外，主辦單位也邀請了一些在地的餐廳、服務（如按摩）、與藝術家進行設攤銷售。現場也有一些彩繪、泡泡、彩繪、貼紙分享等攤位。
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/irvin/53225136139/in/album-72177720311589395/" title="Feira 會場一隅 - 藝術小店"><img src="https://live.staticflickr.com/65535/53225136139_9b948b98f2_h.jpg" width="1200" height="1600" alt="Feira 會場一隅 - 藝術小店"/></a>
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/irvin/53223878112/in/album-72177720311589395/" title="Feira 會場一隅 - 泡泡站"><img src="https://live.staticflickr.com/65535/53223878112_fae13e51d4_h.jpg" width="1331" height="1600" alt="Feira 會場一隅 - 泡泡站"/></a>
 
-因為與會者身份的敏感度，現場規定不可以錄音錄影或拍照（經對方同意除外）。因此我在錄製活動分享的影片時，則是到會場附近的公園錄製（連結置於本文最下方）。活動間也不做照片或社群貼文分享。
+因為與會者身份的敏感度，現場規定不可以錄音錄影或拍照（經對方同意除外）。因此我在錄製活動分享的影片時，則是到會場附近的公園錄製（連結置於本文最下方）。活動間也未做任何即時的照片或社群貼文分享。
 
 # 參與議程
 
@@ -173,14 +181,14 @@ Accessibility Lab ([a11ylab.com]())，提供網路無障礙的免費檢測與教
 
 第二個議程「貓奴的角落」，緣由是來自於工程師、資訊相關從業者很多人都養貓，所以想到可以在現場交流一下，大家曬曬自己愛貓的照片。
 
-https://www.flickr.com/photos/irvin/53224742161/in/album-72177720311589395/
+<a data-flickr-embed="true" data-header="true" href="https://www.flickr.com/photos/irvin/53224742161/in/album-72177720311589395/" title="Feira 社交議程 - 貓奴角落"><img src="https://live.staticflickr.com/65535/53224742161_4811124ba2_h.jpg" width="1200" height="1600" alt="Feira 社交議程 - 貓奴角落"/></a>
 (隨手帶了 The Big Issue Taiwan [大誌 2023 年的貓咪月曆](https://www.facebook.com/bigissue.tw/photos/a.392137803696/10159209060508697/)，及 CAiRE 艾可兒的快樂貓口罩去現場佈置)
 
 這兩個議程的參加者都不多，大家多是經過然後短暫停留聊聊。我想主因是因為一天只有三場議程，參與者還是會想要儘量善用時間參與討論。我當天有跟主辦單位討論，覺得下次應該放到晚上的休閒交流時間，在旁邊開一些主題的交流 corner，可以讓一些有共同興趣的參與者來自由交流，可能能達到更高的效果。明年應該會往此方向調整。
 
 我也曾在前幾個月的 g0v 黑客松上，試著做了一個與技術完全無關的的簡短分享，內容為探訪各國「貓咖啡」及其不同經營模式的觀察。當時也引發了不少參加者的興趣。我認為除技術與政策外，在此類公民駭客活動或資訊的研討會上，假如能夠像 Feira 一樣開闢一些小空間，讓技術人也能交流生活中的其他多元議題，也是蠻有價值的。
 
-# 我們透過參與能做出的貢獻
+# 我們能透過參與做出的貢獻
 
 我認為，台灣參加者在此類活動上，最主要的貢獻方法是盡量分享我們的經驗。特別是面對針對民主自由、科技和安全方面的挑戰，台灣一項處於全球威脅的前緣。
 
@@ -190,13 +198,15 @@ https://www.flickr.com/photos/irvin/53224742161/in/album-72177720311589395/
 
 分享自身經驗協助其他國家，也把有意思的專案帶回來台灣，我認為這就是我們接受補助，前去參與此類數位人權、隱私技術活動，最希望能達到的目的。
 
-# 相簿
+# 參見
+
+## 相簿
 
 [Feira @ the Global Gathering (2023) | Flickr](https://www.flickr.com/photos/irvin/sets/72177720311589395)
 
 <a data-flickr-embed="true" data-header="true" href="https://www.flickr.com/photos/irvin/albums/72177720311589395" title="Feira @ the Global Gathering (2023)"><img src="https://live.staticflickr.com/65535/53225125439_08152990d2_h.jpg" width="1600" height="1200" alt="Feira @ the Global Gathering (2023)"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-# 現場心得錄影
+## 現場心得錄影
 
 播放清單：[https://www.youtube.com/playlist?list=PL9q3Nz3iaXIY7qa-BpO8KBNFetfb-Vltu]()
 
