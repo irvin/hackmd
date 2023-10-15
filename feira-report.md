@@ -15,7 +15,7 @@ Medium：[https://irvinfly.medium.com/feira-2023-6d251baa07b2]()
 
 ---
 
-OCF 將於 10/5 假網路自由小聚舉辦 Feira 參加者分享活動，歡迎於此報名： [https://ocftw.kktix.cc/events/internetfreedom-october2023-special]()
+（已結束）OCF 將於 10/5 假網路自由小聚舉辦 Feira 參加者分享活動，歡迎於此報名： [https://ocftw.kktix.cc/events/internetfreedom-october2023-special]()
 
 ---
 
